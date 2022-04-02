@@ -1,5 +1,5 @@
 # NASA-API
-work with nasa csv files to get habitable planets and then save numbers of launches from space X data to populate my database.
+Work on NASA API... consume data from SPACEx API
 
 
 # to get all planets.
