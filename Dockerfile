@@ -1,5 +1,5 @@
-FROM node:lts alpine
-COPY package.json ./\
+FROM node:alpine
+COPY package.json ./
 
 RUN "npm start"
 
